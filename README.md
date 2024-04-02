@@ -3,7 +3,7 @@
 
 # Colette Smith - Front End Engineer
 
-<div align="left">
+<div align="center">
   <img height="150" src="https://colettesmith.uk/assets/images/Colette_cutout.png"  />
 </div>
 

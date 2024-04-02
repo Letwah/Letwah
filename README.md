@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left"> I'm Colette.<br><br>-Frontend Developer and Designer with over 15 years in the creative industry, including founding my own design and development studio. Specialising in crafting user-centric web solutions using vanilla JavaScript, React, and Figma. I am a creative problem-solver and I enjoy contributing to meaningful and innovative digital projects.  </p>
+<p align="left">I'm Colette.<br><br>-Frontend Developer and Designer with over 15 years in the creative industry, including founding my own design and development studio. Specialising in crafting user-centric web solutions using vanilla JavaScript, React, and Figma. I am a creative problem-solver and I enjoy contributing to meaningful and innovative digital projects.  </p>
 
 ###
 

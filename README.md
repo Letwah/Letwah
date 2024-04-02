@@ -1,7 +1,7 @@
 
 
 
-# Colette Smith - Front End Engineer
+# Colette Smith - Front End Engineer and Designer
 
 <div align="center">
   <img height="150" src="https://colettesmith.uk/assets/images/Colette_cutout.png"  />

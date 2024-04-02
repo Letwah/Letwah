@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Colette.<br><br>- 🔭I’m currently working as freelance javascript front end developer and squarespace customisation specialist.  </p>
+<p align="left">I'm Colette.<br><br>- 🔭I’m currently working as freelance javascript front end developer and web designer.  </p>
 
 ###
 

@@ -1,7 +1,7 @@
 # Colette Smith
 
 <div align="center">
-<img height="150" src="./Colette_Smith_Creative_at_Studio_Mesh_.webp" />
+<img height="150" src="./Colette_Smith_Creative_at_Studio_Mesh_.jpg" />
 </div>
 
 ###

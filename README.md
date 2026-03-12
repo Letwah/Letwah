@@ -1,6 +1,6 @@
 # Colette Smith
 
-<div align="center">
+<div align="left">
 <img height="150" src="https://raw.githubusercontent.com/Letwah/Letwah/main/Colette%20Smith%20Creative%20at%20Studio%20Mesh%20.jpg" />
 </div>
 

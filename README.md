@@ -9,7 +9,7 @@
   <a href="https://www.instagram.com/studio_mesh_co/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram" />
   </a>
-  <a href="https://studiomesh.co" target="_blank">
+  <a href="https://colettesmith.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=safari&label=&color=191919&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio" />
   </a>
 </div>
